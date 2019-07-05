@@ -1,7 +1,7 @@
 classes= 5
-train  = /home/keti-titan/dataset/coco/keti_train_our_data_only.txt
+train  = /home/keti/ditel/darknet/keti/keti_train_our_data_only.txt
 valid  = coco_testdev
 #valid = data/coco_val_5k.list
-names = /home/keti-titan/dataset/coco/adas.names
-backup = /home/keti-titan/projects/darknet/backup
+names = /home/keti/ditel/darknet/keti/adas.names
+backup = /home/keti/ditel/darknet/backup
 eval=coco
